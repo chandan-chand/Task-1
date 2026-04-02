@@ -37,9 +37,13 @@ Create a web interface for predictions
 🚀 Technologies Used
 
 Python
+
 Pandas, NumPy
+
 Scikit-learn
+
 Flask
+
 HTML/CSS (for UI)
 
 Author
